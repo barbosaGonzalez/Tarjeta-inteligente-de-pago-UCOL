@@ -1,0 +1,247 @@
+C:\Users\Torby\Documents\Visual Studio 2012\Projects\Proyecto Integrador\Proyecto Integrador\bin\Debug\Proyecto Integrador.exe.config
+C:\Users\Torby\Documents\Visual Studio 2012\Projects\Proyecto Integrador\Proyecto Integrador\bin\Debug\Proyecto Integrador.exe
+C:\Users\Torby\Documents\Visual Studio 2012\Projects\Proyecto Integrador\Proyecto Integrador\bin\Debug\Proyecto Integrador.pdb
+C:\Users\Torby\Documents\Visual Studio 2012\Projects\Proyecto Integrador\Proyecto Integrador\obj\Debug\Proyecto Integrador.csprojResolveAssemblyReference.cache
+C:\Users\Torby\Documents\Visual Studio 2012\Projects\Proyecto Integrador\Proyecto Integrador\obj\Debug\Proyecto_Integrador.Properties.Resources.resources
+C:\Users\Torby\Documents\Visual Studio 2012\Projects\Proyecto Integrador\Proyecto Integrador\obj\Debug\Proyecto Integrador.csproj.GenerateResource.Cache
+C:\Users\Torby\Documents\Visual Studio 2012\Projects\Proyecto Integrador\Proyecto Integrador\obj\Debug\Proyecto Integrador.exe
+C:\Users\Torby\Documents\Visual Studio 2012\Projects\Proyecto Integrador\Proyecto Integrador\obj\Debug\Proyecto Integrador.pdb
+C:\Users\Torby\Documents\Visual Studio 2012\Projects\Proyecto Integrador\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmMenu.resources
+C:\Users\Torby\Documents\Visual Studio 2012\Projects\Proyecto Integrador\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmInforme.resources
+C:\Users\Torby\Documents\Visual Studio 2012\Projects\Proyecto Integrador\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmNuevo.resources
+C:\Users\Torby\Documents\Visual Studio 2012\Projects\Proyecto Integrador\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmRenovar.resources
+C:\Users\Torby\Documents\Visual Studio 2012\Projects\Proyecto Integrador\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmBaja.resources
+C:\Users\Torby\Documents\Visual Studio 2012\Projects\Proyecto Integrador\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmRenovarDatos.resources
+C:\Users\Torby\Documents\Visual Studio 2012\Projects\Proyecto Integrador\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmBajaDatos.resources
+C:\Users\Torby\Documents\Visual Studio 2012\Projects\Proyecto Integrador\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmConsultaUsuario.resources
+C:\Users\Torby\Documents\Visual Studio 2012\Projects\Proyecto Integrador\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmConsultaCamiones.resources
+C:\Users\Torby\Documents\Visual Studio 2012\Projects\Proyecto Integrador\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmRecarga.resources
+C:\Users\Torby\Documents\Visual Studio 2012\Projects\Proyecto Integrador\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmCobrar.resources
+C:\Users\walmart\Documents\Visual Studio 2012\Projects\Proyecto Integrador\Proyecto Integrador\bin\Debug\Proyecto Integrador.exe.config
+C:\Users\walmart\Documents\Visual Studio 2012\Projects\Proyecto Integrador\Proyecto Integrador\obj\Debug\Proyecto Integrador.exe
+C:\Users\walmart\Documents\Visual Studio 2012\Projects\Proyecto Integrador\Proyecto Integrador\obj\Debug\Proyecto Integrador.pdb
+C:\Users\walmart\Documents\Visual Studio 2012\Projects\Proyecto Integrador\Proyecto Integrador\bin\Debug\Proyecto Integrador.exe
+C:\Users\walmart\Documents\Visual Studio 2012\Projects\Proyecto Integrador\Proyecto Integrador\bin\Debug\Proyecto Integrador.pdb
+C:\Users\walmart\Documents\Visual Studio 2012\Projects\Proyecto Integrador\Proyecto Integrador\obj\Debug\Proyecto Integrador.csprojResolveAssemblyReference.cache
+C:\Users\walmart\Documents\Visual Studio 2012\Projects\Proyecto Integrador\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmMenu.resources
+C:\Users\walmart\Documents\Visual Studio 2012\Projects\Proyecto Integrador\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmBajaDatos.resources
+C:\Users\walmart\Documents\Visual Studio 2012\Projects\Proyecto Integrador\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmConsultaUsuario.resources
+C:\Users\walmart\Documents\Visual Studio 2012\Projects\Proyecto Integrador\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmConsultaCamiones.resources
+C:\Users\walmart\Documents\Visual Studio 2012\Projects\Proyecto Integrador\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmRecarga.resources
+C:\Users\walmart\Documents\Visual Studio 2012\Projects\Proyecto Integrador\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmCobrar.resources
+C:\Users\walmart\Documents\Visual Studio 2012\Projects\Proyecto Integrador\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmInforme.resources
+C:\Users\walmart\Documents\Visual Studio 2012\Projects\Proyecto Integrador\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmNuevo.resources
+C:\Users\walmart\Documents\Visual Studio 2012\Projects\Proyecto Integrador\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmRenovar.resources
+C:\Users\walmart\Documents\Visual Studio 2012\Projects\Proyecto Integrador\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmBaja.resources
+C:\Users\walmart\Documents\Visual Studio 2012\Projects\Proyecto Integrador\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmRenovarDatos.resources
+C:\Users\walmart\Documents\Visual Studio 2012\Projects\Proyecto Integrador\Proyecto Integrador\obj\Debug\Proyecto_Integrador.Properties.Resources.resources
+C:\Users\walmart\Documents\Visual Studio 2012\Projects\Proyecto Integrador\Proyecto Integrador\obj\Debug\Proyecto Integrador.csproj.GenerateResource.Cache
+G:\Z-Documents\IES\III. PI\Proyecto Integrador\Proyecto Integrador\bin\Debug\Proyecto Integrador.exe.config
+G:\Z-Documents\IES\III. PI\Proyecto Integrador\Proyecto Integrador\obj\Debug\Proyecto Integrador.exe
+G:\Z-Documents\IES\III. PI\Proyecto Integrador\Proyecto Integrador\obj\Debug\Proyecto Integrador.pdb
+G:\Z-Documents\IES\III. PI\Proyecto Integrador\Proyecto Integrador\bin\Debug\Proyecto Integrador.exe
+G:\Z-Documents\IES\III. PI\Proyecto Integrador\Proyecto Integrador\bin\Debug\Proyecto Integrador.pdb
+G:\Z-Documents\IES\III. PI\Proyecto Integrador\Proyecto Integrador\obj\Debug\Proyecto Integrador.csprojResolveAssemblyReference.cache
+G:\Z-Documents\IES\III. PI\Proyecto Integrador\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmMenu.resources
+G:\Z-Documents\IES\III. PI\Proyecto Integrador\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmBajaDatos.resources
+G:\Z-Documents\IES\III. PI\Proyecto Integrador\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmConsultaUsuario.resources
+G:\Z-Documents\IES\III. PI\Proyecto Integrador\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmConsultaCamiones.resources
+G:\Z-Documents\IES\III. PI\Proyecto Integrador\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmRecarga.resources
+G:\Z-Documents\IES\III. PI\Proyecto Integrador\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmCobrar.resources
+G:\Z-Documents\IES\III. PI\Proyecto Integrador\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmInforme.resources
+G:\Z-Documents\IES\III. PI\Proyecto Integrador\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmNuevo.resources
+G:\Z-Documents\IES\III. PI\Proyecto Integrador\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmRenovar.resources
+G:\Z-Documents\IES\III. PI\Proyecto Integrador\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmBaja.resources
+G:\Z-Documents\IES\III. PI\Proyecto Integrador\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmRenovarDatos.resources
+G:\Z-Documents\IES\III. PI\Proyecto Integrador\Proyecto Integrador\obj\Debug\Proyecto_Integrador.Properties.Resources.resources
+G:\Z-Documents\IES\III. PI\Proyecto Integrador\Proyecto Integrador\obj\Debug\Proyecto Integrador.csproj.GenerateResource.Cache
+C:\Users\Torby\Downloads\Proyecto Integrador2\Proyecto Integrador\Proyecto Integrador\bin\Debug\Proyecto Integrador.exe.config
+C:\Users\Torby\Downloads\Proyecto Integrador2\Proyecto Integrador\Proyecto Integrador\obj\Debug\Proyecto Integrador.exe
+C:\Users\Torby\Downloads\Proyecto Integrador2\Proyecto Integrador\Proyecto Integrador\obj\Debug\Proyecto Integrador.pdb
+C:\Users\Torby\Downloads\Proyecto Integrador2\Proyecto Integrador\Proyecto Integrador\bin\Debug\Proyecto Integrador.exe
+C:\Users\Torby\Downloads\Proyecto Integrador2\Proyecto Integrador\Proyecto Integrador\bin\Debug\Proyecto Integrador.pdb
+C:\Users\Torby\Downloads\Proyecto Integrador2\Proyecto Integrador\Proyecto Integrador\obj\Debug\Proyecto Integrador.csprojResolveAssemblyReference.cache
+C:\Users\Torby\Downloads\Proyecto Integrador2\Proyecto Integrador\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmMenu.resources
+C:\Users\Torby\Downloads\Proyecto Integrador2\Proyecto Integrador\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmBajaDatos.resources
+C:\Users\Torby\Downloads\Proyecto Integrador2\Proyecto Integrador\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmConsultaUsuario.resources
+C:\Users\Torby\Downloads\Proyecto Integrador2\Proyecto Integrador\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmConsultaCamiones.resources
+C:\Users\Torby\Downloads\Proyecto Integrador2\Proyecto Integrador\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmRecarga.resources
+C:\Users\Torby\Downloads\Proyecto Integrador2\Proyecto Integrador\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmCobrar.resources
+C:\Users\Torby\Downloads\Proyecto Integrador2\Proyecto Integrador\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmInforme.resources
+C:\Users\Torby\Downloads\Proyecto Integrador2\Proyecto Integrador\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmNuevo.resources
+C:\Users\Torby\Downloads\Proyecto Integrador2\Proyecto Integrador\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmRenovar.resources
+C:\Users\Torby\Downloads\Proyecto Integrador2\Proyecto Integrador\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmBaja.resources
+C:\Users\Torby\Downloads\Proyecto Integrador2\Proyecto Integrador\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmRenovarDatos.resources
+C:\Users\Torby\Downloads\Proyecto Integrador2\Proyecto Integrador\Proyecto Integrador\obj\Debug\Proyecto_Integrador.Properties.Resources.resources
+C:\Users\Torby\Downloads\Proyecto Integrador2\Proyecto Integrador\Proyecto Integrador\obj\Debug\Proyecto Integrador.csproj.GenerateResource.Cache
+C:\Users\Torby\Downloads\Proyecto Integrador2\Proyecto Integrador\Proyecto Integrador\bin\Debug\Proyecto Integrador.accdb
+C:\Users\Torby\Dropbox\Proyecto Integrador 3er semestre\Proyecto Integrador C#\Proyecto Integrador\bin\Debug\Proyecto Integrador.exe.config
+C:\Users\Torby\Dropbox\Proyecto Integrador 3er semestre\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto Integrador.exe
+C:\Users\Torby\Dropbox\Proyecto Integrador 3er semestre\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto Integrador.pdb
+C:\Users\Torby\Dropbox\Proyecto Integrador 3er semestre\Proyecto Integrador C#\Proyecto Integrador\bin\Debug\Proyecto Integrador.exe
+C:\Users\Torby\Dropbox\Proyecto Integrador 3er semestre\Proyecto Integrador C#\Proyecto Integrador\bin\Debug\Proyecto Integrador.pdb
+C:\Users\Torby\Dropbox\Proyecto Integrador 3er semestre\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmMenu.resources
+C:\Users\Torby\Dropbox\Proyecto Integrador 3er semestre\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmBajaDatos.resources
+C:\Users\Torby\Dropbox\Proyecto Integrador 3er semestre\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmConsultaUsuario.resources
+C:\Users\Torby\Dropbox\Proyecto Integrador 3er semestre\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmConsultaCamiones.resources
+C:\Users\Torby\Dropbox\Proyecto Integrador 3er semestre\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmRecarga.resources
+C:\Users\Torby\Dropbox\Proyecto Integrador 3er semestre\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmCobrar.resources
+C:\Users\Torby\Dropbox\Proyecto Integrador 3er semestre\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmInforme.resources
+C:\Users\Torby\Dropbox\Proyecto Integrador 3er semestre\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmNuevo.resources
+C:\Users\Torby\Dropbox\Proyecto Integrador 3er semestre\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmRenovar.resources
+C:\Users\Torby\Dropbox\Proyecto Integrador 3er semestre\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmBaja.resources
+C:\Users\Torby\Dropbox\Proyecto Integrador 3er semestre\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmRenovarDatos.resources
+C:\Users\Torby\Dropbox\Proyecto Integrador 3er semestre\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto_Integrador.Properties.Resources.resources
+C:\Users\Torby\Dropbox\Proyecto Integrador 3er semestre\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto Integrador.csproj.GenerateResource.Cache
+C:\Users\Torby\Desktop\Proyecto Integrador C#\Proyecto Integrador\bin\Debug\Proyecto Integrador.exe.config
+C:\Users\Torby\Desktop\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto Integrador.exe
+C:\Users\Torby\Desktop\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto Integrador.pdb
+C:\Users\Torby\Desktop\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto Integrador.csprojResolveAssemblyReference.cache
+C:\Users\Torby\Desktop\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmMenu.resources
+C:\Users\Torby\Desktop\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmBajaDatos.resources
+C:\Users\Torby\Desktop\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmConsultaUsuario.resources
+C:\Users\Torby\Desktop\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmConsultaCamiones.resources
+C:\Users\Torby\Desktop\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmRecarga.resources
+C:\Users\Torby\Desktop\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmCobrar.resources
+C:\Users\Torby\Desktop\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmInforme.resources
+C:\Users\Torby\Desktop\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmNuevo.resources
+C:\Users\Torby\Desktop\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmRenovar.resources
+C:\Users\Torby\Desktop\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmBaja.resources
+C:\Users\Torby\Desktop\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmRenovarDatos.resources
+C:\Users\Torby\Desktop\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto_Integrador.Properties.Resources.resources
+C:\Users\Torby\Desktop\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto Integrador.csproj.GenerateResource.Cache
+C:\Users\Torby\Desktop\Proyecto Integrador C#\Proyecto Integrador\bin\Debug\Proyecto Integrador.exe
+C:\Users\Torby\Desktop\Proyecto Integrador C#\Proyecto Integrador\bin\Debug\Proyecto Integrador.pdb
+C:\Users\Torby\Desktop\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto_Integrador.Estadisticas.resources
+C:\Users\Torby\Desktop\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto_Integrador.Informacion2.resources
+C:\Users\Torby\Desktop\Proyecto Integrador C#\Proyecto Integrador\bin\Debug\Proyecto Integrador.exe.manifest
+C:\Users\Torby\Desktop\Proyecto Integrador C#\Proyecto Integrador\bin\Debug\Proyecto Integrador.application
+C:\Users\Torby\Desktop\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto Integrador.exe.manifest
+C:\Users\Torby\Desktop\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto Integrador.application
+C:\Users\Torby\Dropbox\Proyecto Integrador 3er semestre\Proyecto Integrador C#\Proyecto Integrador\bin\Debug\Proyecto Integrador.exe.manifest
+C:\Users\Torby\Dropbox\Proyecto Integrador 3er semestre\Proyecto Integrador C#\Proyecto Integrador\bin\Debug\Proyecto Integrador.application
+C:\Users\Torby\Dropbox\Proyecto Integrador 3er semestre\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto_Integrador.Estadisticas.resources
+C:\Users\Torby\Dropbox\Proyecto Integrador 3er semestre\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto_Integrador.Informacion2.resources
+C:\Users\Torby\Dropbox\Proyecto Integrador 3er semestre\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto Integrador.exe.manifest
+C:\Users\Torby\Dropbox\Proyecto Integrador 3er semestre\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto Integrador.application
+C:\Users\Torby\Dropbox\Proyecto Integrador 3er semestre\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto_Integrador.TipodeUsuario.resources
+C:\Users\Torby\Dropbox\Proyecto Integrador 3er semestre\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto Integrador.csprojResolveAssemblyReference.cache
+E:\Z-Documents\Dropbox\Proyecto Integrador 3er semestre\Proyecto Integrador 3er Semestre\Proyecto Integrador C#\Proyecto Integrador\bin\Debug\Proyecto Integrador.exe.config
+E:\Z-Documents\Dropbox\Proyecto Integrador 3er semestre\Proyecto Integrador 3er Semestre\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto Integrador.exe
+E:\Z-Documents\Dropbox\Proyecto Integrador 3er semestre\Proyecto Integrador 3er Semestre\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto Integrador.pdb
+C:\Users\Edsel\Dropbox\Equipo Facu\Proyecto Integrador 3er Semestre\Proyecto Integrador C#\Proyecto Integrador\bin\Debug\Proyecto Integrador.exe.config
+C:\Users\Edsel\Dropbox\Equipo Facu\Proyecto Integrador 3er Semestre\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto Integrador.exe
+C:\Users\Edsel\Dropbox\Equipo Facu\Proyecto Integrador 3er Semestre\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto Integrador.pdb
+C:\Users\Edsel\Dropbox\Equipo Facu\Proyecto Integrador 3er Semestre\Proyecto Integrador C#\Proyecto Integrador\bin\Debug\Proyecto Integrador.exe.manifest
+C:\Users\Edsel\Dropbox\Equipo Facu\Proyecto Integrador 3er Semestre\Proyecto Integrador C#\Proyecto Integrador\bin\Debug\Proyecto Integrador.application
+C:\Users\Edsel\Dropbox\Equipo Facu\Proyecto Integrador 3er Semestre\Proyecto Integrador C#\Proyecto Integrador\bin\Debug\Proyecto Integrador.exe
+C:\Users\Edsel\Dropbox\Equipo Facu\Proyecto Integrador 3er Semestre\Proyecto Integrador C#\Proyecto Integrador\bin\Debug\Proyecto Integrador.pdb
+C:\Users\Edsel\Dropbox\Equipo Facu\Proyecto Integrador 3er Semestre\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto Integrador.csprojResolveAssemblyReference.cache
+C:\Users\Edsel\Dropbox\Equipo Facu\Proyecto Integrador 3er Semestre\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto_Integrador.Estadisticas.resources
+C:\Users\Edsel\Dropbox\Equipo Facu\Proyecto Integrador 3er Semestre\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto_Integrador.Informacion2.resources
+C:\Users\Edsel\Dropbox\Equipo Facu\Proyecto Integrador 3er Semestre\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmMenu.resources
+C:\Users\Edsel\Dropbox\Equipo Facu\Proyecto Integrador 3er Semestre\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmBajaDatos.resources
+C:\Users\Edsel\Dropbox\Equipo Facu\Proyecto Integrador 3er Semestre\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmConsultaUsuario.resources
+C:\Users\Edsel\Dropbox\Equipo Facu\Proyecto Integrador 3er Semestre\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmConsultaCamiones.resources
+C:\Users\Edsel\Dropbox\Equipo Facu\Proyecto Integrador 3er Semestre\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmRecarga.resources
+C:\Users\Edsel\Dropbox\Equipo Facu\Proyecto Integrador 3er Semestre\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmCobrar.resources
+C:\Users\Edsel\Dropbox\Equipo Facu\Proyecto Integrador 3er Semestre\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmInforme.resources
+C:\Users\Edsel\Dropbox\Equipo Facu\Proyecto Integrador 3er Semestre\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmNuevo.resources
+C:\Users\Edsel\Dropbox\Equipo Facu\Proyecto Integrador 3er Semestre\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmRenovar.resources
+C:\Users\Edsel\Dropbox\Equipo Facu\Proyecto Integrador 3er Semestre\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmBaja.resources
+C:\Users\Edsel\Dropbox\Equipo Facu\Proyecto Integrador 3er Semestre\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmRenovarDatos.resources
+C:\Users\Edsel\Dropbox\Equipo Facu\Proyecto Integrador 3er Semestre\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto_Integrador.Properties.Resources.resources
+C:\Users\Edsel\Dropbox\Equipo Facu\Proyecto Integrador 3er Semestre\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto_Integrador.TipodeUsuario.resources
+C:\Users\Edsel\Dropbox\Equipo Facu\Proyecto Integrador 3er Semestre\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto Integrador.csproj.GenerateResource.Cache
+C:\Users\Edsel\Dropbox\Equipo Facu\Proyecto Integrador 3er Semestre\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto Integrador.exe.manifest
+C:\Users\Edsel\Dropbox\Equipo Facu\Proyecto Integrador 3er Semestre\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto Integrador.application
+C:\Users\Enrique\Dropbox\Proyecto Integrador 3er semestre\Proyecto Integrador 3er Semestre\Proyecto Integrador C#\Proyecto Integrador\bin\Debug\Proyecto Integrador.exe.config
+C:\Users\Enrique\Dropbox\Proyecto Integrador 3er semestre\Proyecto Integrador 3er Semestre\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto Integrador.exe
+C:\Users\Enrique\Dropbox\Proyecto Integrador 3er semestre\Proyecto Integrador 3er Semestre\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto Integrador.pdb
+C:\Users\Enrique\Dropbox\Proyecto Integrador 3er semestre\Proyecto Integrador 3er Semestre\Proyecto Integrador C#\Proyecto Integrador\bin\Debug\Proyecto Integrador.exe.manifest
+C:\Users\Enrique\Dropbox\Proyecto Integrador 3er semestre\Proyecto Integrador 3er Semestre\Proyecto Integrador C#\Proyecto Integrador\bin\Debug\Proyecto Integrador.application
+C:\Users\Enrique\Dropbox\Proyecto Integrador 3er semestre\Proyecto Integrador 3er Semestre\Proyecto Integrador C#\Proyecto Integrador\bin\Debug\Proyecto Integrador.exe
+C:\Users\Enrique\Dropbox\Proyecto Integrador 3er semestre\Proyecto Integrador 3er Semestre\Proyecto Integrador C#\Proyecto Integrador\bin\Debug\Proyecto Integrador.pdb
+C:\Users\Enrique\Dropbox\Proyecto Integrador 3er semestre\Proyecto Integrador 3er Semestre\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto Integrador.csprojResolveAssemblyReference.cache
+C:\Users\Enrique\Dropbox\Proyecto Integrador 3er semestre\Proyecto Integrador 3er Semestre\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto_Integrador.Estadisticas.resources
+C:\Users\Enrique\Dropbox\Proyecto Integrador 3er semestre\Proyecto Integrador 3er Semestre\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto_Integrador.Informacion2.resources
+C:\Users\Enrique\Dropbox\Proyecto Integrador 3er semestre\Proyecto Integrador 3er Semestre\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmMenu.resources
+C:\Users\Enrique\Dropbox\Proyecto Integrador 3er semestre\Proyecto Integrador 3er Semestre\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmBajaDatos.resources
+C:\Users\Enrique\Dropbox\Proyecto Integrador 3er semestre\Proyecto Integrador 3er Semestre\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmConsultaUsuario.resources
+C:\Users\Enrique\Dropbox\Proyecto Integrador 3er semestre\Proyecto Integrador 3er Semestre\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmConsultaCamiones.resources
+C:\Users\Enrique\Dropbox\Proyecto Integrador 3er semestre\Proyecto Integrador 3er Semestre\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmRecarga.resources
+C:\Users\Enrique\Dropbox\Proyecto Integrador 3er semestre\Proyecto Integrador 3er Semestre\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmCobrar.resources
+C:\Users\Enrique\Dropbox\Proyecto Integrador 3er semestre\Proyecto Integrador 3er Semestre\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmInforme.resources
+C:\Users\Enrique\Dropbox\Proyecto Integrador 3er semestre\Proyecto Integrador 3er Semestre\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmNuevo.resources
+C:\Users\Enrique\Dropbox\Proyecto Integrador 3er semestre\Proyecto Integrador 3er Semestre\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmRenovar.resources
+C:\Users\Enrique\Dropbox\Proyecto Integrador 3er semestre\Proyecto Integrador 3er Semestre\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmBaja.resources
+C:\Users\Enrique\Dropbox\Proyecto Integrador 3er semestre\Proyecto Integrador 3er Semestre\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmRenovarDatos.resources
+C:\Users\Enrique\Dropbox\Proyecto Integrador 3er semestre\Proyecto Integrador 3er Semestre\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto_Integrador.Properties.Resources.resources
+C:\Users\Enrique\Dropbox\Proyecto Integrador 3er semestre\Proyecto Integrador 3er Semestre\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto_Integrador.TipodeUsuario.resources
+C:\Users\Enrique\Dropbox\Proyecto Integrador 3er semestre\Proyecto Integrador 3er Semestre\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto Integrador.csproj.GenerateResource.Cache
+C:\Users\Enrique\Dropbox\Proyecto Integrador 3er semestre\Proyecto Integrador 3er Semestre\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto Integrador.exe.manifest
+C:\Users\Enrique\Dropbox\Proyecto Integrador 3er semestre\Proyecto Integrador 3er Semestre\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto Integrador.application
+C:\Users\Edsel\Dropbox\Equipo Facu\Proyecto Integrador 3er Semestre\Programacion Orientada a Objetos\Proyecto Integrador C#\Proyecto Integrador\bin\Debug\Proyecto Integrador.exe.config
+C:\Users\Edsel\Dropbox\Equipo Facu\Proyecto Integrador 3er Semestre\Programacion Orientada a Objetos\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto Integrador.exe
+C:\Users\Edsel\Dropbox\Equipo Facu\Proyecto Integrador 3er Semestre\Programacion Orientada a Objetos\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto Integrador.pdb
+C:\Users\Edsel\Dropbox\Equipo Facu\Proyecto Integrador 3er Semestre\Programacion Visual\Proyecto Integrador C#\Proyecto Integrador\bin\Debug\Proyecto Integrador.exe.config
+C:\Users\Edsel\Dropbox\Equipo Facu\Proyecto Integrador 3er Semestre\Programacion Visual\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto Integrador.exe
+C:\Users\Edsel\Dropbox\Equipo Facu\Proyecto Integrador 3er Semestre\Programacion Visual\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto Integrador.pdb
+C:\Users\Enrique\Dropbox\Proyecto Integrador 3er semestre\Proyecto Integrador 3er Semestre\Programacion Visual\Proyecto Integrador C#\Proyecto Integrador\bin\Debug\Proyecto Integrador.exe.config
+C:\Users\Enrique\Dropbox\Proyecto Integrador 3er semestre\Proyecto Integrador 3er Semestre\Programacion Visual\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto Integrador.exe
+C:\Users\Enrique\Dropbox\Proyecto Integrador 3er semestre\Proyecto Integrador 3er Semestre\Programacion Visual\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto Integrador.pdb
+C:\Users\Enrique\Dropbox\Proyecto Integrador 3er semestre\Proyecto Integrador 3er Semestre\Programacion Visual\Proyecto Integrador C#\Proyecto Integrador\bin\Debug\Proyecto Integrador.exe.manifest
+C:\Users\Enrique\Dropbox\Proyecto Integrador 3er semestre\Proyecto Integrador 3er Semestre\Programacion Visual\Proyecto Integrador C#\Proyecto Integrador\bin\Debug\Proyecto Integrador.application
+C:\Users\Enrique\Dropbox\Proyecto Integrador 3er semestre\Proyecto Integrador 3er Semestre\Programacion Visual\Proyecto Integrador C#\Proyecto Integrador\bin\Debug\Proyecto Integrador.exe
+C:\Users\Enrique\Dropbox\Proyecto Integrador 3er semestre\Proyecto Integrador 3er Semestre\Programacion Visual\Proyecto Integrador C#\Proyecto Integrador\bin\Debug\Proyecto Integrador.pdb
+C:\Users\Enrique\Dropbox\Proyecto Integrador 3er semestre\Proyecto Integrador 3er Semestre\Programacion Visual\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto Integrador.csprojResolveAssemblyReference.cache
+C:\Users\Enrique\Dropbox\Proyecto Integrador 3er semestre\Proyecto Integrador 3er Semestre\Programacion Visual\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto_Integrador.Estadisticas.resources
+C:\Users\Enrique\Dropbox\Proyecto Integrador 3er semestre\Proyecto Integrador 3er Semestre\Programacion Visual\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto_Integrador.Informacion2.resources
+C:\Users\Enrique\Dropbox\Proyecto Integrador 3er semestre\Proyecto Integrador 3er Semestre\Programacion Visual\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmMenu.resources
+C:\Users\Enrique\Dropbox\Proyecto Integrador 3er semestre\Proyecto Integrador 3er Semestre\Programacion Visual\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmBajaDatos.resources
+C:\Users\Enrique\Dropbox\Proyecto Integrador 3er semestre\Proyecto Integrador 3er Semestre\Programacion Visual\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmConsultaUsuario.resources
+C:\Users\Enrique\Dropbox\Proyecto Integrador 3er semestre\Proyecto Integrador 3er Semestre\Programacion Visual\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmConsultaCamiones.resources
+C:\Users\Enrique\Dropbox\Proyecto Integrador 3er semestre\Proyecto Integrador 3er Semestre\Programacion Visual\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmRecarga.resources
+C:\Users\Enrique\Dropbox\Proyecto Integrador 3er semestre\Proyecto Integrador 3er Semestre\Programacion Visual\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmCobrar.resources
+C:\Users\Enrique\Dropbox\Proyecto Integrador 3er semestre\Proyecto Integrador 3er Semestre\Programacion Visual\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmInforme.resources
+C:\Users\Enrique\Dropbox\Proyecto Integrador 3er semestre\Proyecto Integrador 3er Semestre\Programacion Visual\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmNuevo.resources
+C:\Users\Enrique\Dropbox\Proyecto Integrador 3er semestre\Proyecto Integrador 3er Semestre\Programacion Visual\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmRenovar.resources
+C:\Users\Enrique\Dropbox\Proyecto Integrador 3er semestre\Proyecto Integrador 3er Semestre\Programacion Visual\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmBaja.resources
+C:\Users\Enrique\Dropbox\Proyecto Integrador 3er semestre\Proyecto Integrador 3er Semestre\Programacion Visual\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmRenovarDatos.resources
+C:\Users\Enrique\Dropbox\Proyecto Integrador 3er semestre\Proyecto Integrador 3er Semestre\Programacion Visual\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto_Integrador.Properties.Resources.resources
+C:\Users\Enrique\Dropbox\Proyecto Integrador 3er semestre\Proyecto Integrador 3er Semestre\Programacion Visual\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto_Integrador.TipodeUsuario.resources
+C:\Users\Enrique\Dropbox\Proyecto Integrador 3er semestre\Proyecto Integrador 3er Semestre\Programacion Visual\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto Integrador.csproj.GenerateResource.Cache
+C:\Users\Enrique\Dropbox\Proyecto Integrador 3er semestre\Proyecto Integrador 3er Semestre\Programacion Visual\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto Integrador.exe.manifest
+C:\Users\Enrique\Dropbox\Proyecto Integrador 3er semestre\Proyecto Integrador 3er Semestre\Programacion Visual\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto Integrador.application
+G:\Z-Documents\DROPBOX\Dropbox\Dropbox\Proyecto Integrador 3er semestre\Proyecto Integrador 3er Semestre\Programacion Visual\Proyecto Integrador C#\Proyecto Integrador\bin\Debug\Proyecto Integrador.exe.config
+G:\Z-Documents\DROPBOX\Dropbox\Dropbox\Proyecto Integrador 3er semestre\Proyecto Integrador 3er Semestre\Programacion Visual\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto Integrador.exe
+G:\Z-Documents\DROPBOX\Dropbox\Dropbox\Proyecto Integrador 3er semestre\Proyecto Integrador 3er Semestre\Programacion Visual\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto Integrador.pdb
+C:\Users\Edsel\Dropbox\Proyectos Integradores 2,3,4\Proyecto Integrador 3er Semestre\Programacion Visual\Proyecto Integrador C#\Proyecto Integrador\bin\Debug\Proyecto Integrador.exe.config
+C:\Users\Edsel\Dropbox\Proyectos Integradores 2,3,4\Proyecto Integrador 3er Semestre\Programacion Visual\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto Integrador.exe
+C:\Users\Edsel\Dropbox\Proyectos Integradores 2,3,4\Proyecto Integrador 3er Semestre\Programacion Visual\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto Integrador.pdb
+C:\Users\KEVIN ROBERTO\Dropbox\Proyecto Integrador 3er semestre\Proyecto Integrador 3er Semestre\Programacion Visual\Proyecto Integrador C#\Proyecto Integrador\bin\Debug\Proyecto Integrador.exe.config
+C:\Users\KEVIN ROBERTO\Dropbox\Proyecto Integrador 3er semestre\Proyecto Integrador 3er Semestre\Programacion Visual\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto Integrador.exe
+C:\Users\KEVIN ROBERTO\Dropbox\Proyecto Integrador 3er semestre\Proyecto Integrador 3er Semestre\Programacion Visual\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto Integrador.pdb
+C:\Users\Edsel\Dropbox\Proyectos Integradores 2,3,4\Proyecto Integrador 3er Semestre\Programacion Visual\Proyecto Integrador C#\Proyecto Integrador\bin\Debug\Proyecto Integrador.exe.manifest
+C:\Users\Edsel\Dropbox\Proyectos Integradores 2,3,4\Proyecto Integrador 3er Semestre\Programacion Visual\Proyecto Integrador C#\Proyecto Integrador\bin\Debug\Proyecto Integrador.application
+C:\Users\Edsel\Dropbox\Proyectos Integradores 2,3,4\Proyecto Integrador 3er Semestre\Programacion Visual\Proyecto Integrador C#\Proyecto Integrador\bin\Debug\Proyecto Integrador.exe
+C:\Users\Edsel\Dropbox\Proyectos Integradores 2,3,4\Proyecto Integrador 3er Semestre\Programacion Visual\Proyecto Integrador C#\Proyecto Integrador\bin\Debug\Proyecto Integrador.pdb
+C:\Users\Edsel\Dropbox\Proyectos Integradores 2,3,4\Proyecto Integrador 3er Semestre\Programacion Visual\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto Integrador.csprojResolveAssemblyReference.cache
+C:\Users\Edsel\Dropbox\Proyectos Integradores 2,3,4\Proyecto Integrador 3er Semestre\Programacion Visual\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto_Integrador.Estadisticas.resources
+C:\Users\Edsel\Dropbox\Proyectos Integradores 2,3,4\Proyecto Integrador 3er Semestre\Programacion Visual\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto_Integrador.Informacion2.resources
+C:\Users\Edsel\Dropbox\Proyectos Integradores 2,3,4\Proyecto Integrador 3er Semestre\Programacion Visual\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmMenu.resources
+C:\Users\Edsel\Dropbox\Proyectos Integradores 2,3,4\Proyecto Integrador 3er Semestre\Programacion Visual\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmBajaDatos.resources
+C:\Users\Edsel\Dropbox\Proyectos Integradores 2,3,4\Proyecto Integrador 3er Semestre\Programacion Visual\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmConsultaUsuario.resources
+C:\Users\Edsel\Dropbox\Proyectos Integradores 2,3,4\Proyecto Integrador 3er Semestre\Programacion Visual\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmConsultaCamiones.resources
+C:\Users\Edsel\Dropbox\Proyectos Integradores 2,3,4\Proyecto Integrador 3er Semestre\Programacion Visual\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmRecarga.resources
+C:\Users\Edsel\Dropbox\Proyectos Integradores 2,3,4\Proyecto Integrador 3er Semestre\Programacion Visual\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmCobrar.resources
+C:\Users\Edsel\Dropbox\Proyectos Integradores 2,3,4\Proyecto Integrador 3er Semestre\Programacion Visual\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmInforme.resources
+C:\Users\Edsel\Dropbox\Proyectos Integradores 2,3,4\Proyecto Integrador 3er Semestre\Programacion Visual\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmNuevo.resources
+C:\Users\Edsel\Dropbox\Proyectos Integradores 2,3,4\Proyecto Integrador 3er Semestre\Programacion Visual\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmRenovar.resources
+C:\Users\Edsel\Dropbox\Proyectos Integradores 2,3,4\Proyecto Integrador 3er Semestre\Programacion Visual\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmBaja.resources
+C:\Users\Edsel\Dropbox\Proyectos Integradores 2,3,4\Proyecto Integrador 3er Semestre\Programacion Visual\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto_Integrador.frmRenovarDatos.resources
+C:\Users\Edsel\Dropbox\Proyectos Integradores 2,3,4\Proyecto Integrador 3er Semestre\Programacion Visual\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto_Integrador.Properties.Resources.resources
+C:\Users\Edsel\Dropbox\Proyectos Integradores 2,3,4\Proyecto Integrador 3er Semestre\Programacion Visual\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto_Integrador.TipodeUsuario.resources
+C:\Users\Edsel\Dropbox\Proyectos Integradores 2,3,4\Proyecto Integrador 3er Semestre\Programacion Visual\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto Integrador.csproj.GenerateResource.Cache
+C:\Users\Edsel\Dropbox\Proyectos Integradores 2,3,4\Proyecto Integrador 3er Semestre\Programacion Visual\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto Integrador.exe.manifest
+C:\Users\Edsel\Dropbox\Proyectos Integradores 2,3,4\Proyecto Integrador 3er Semestre\Programacion Visual\Proyecto Integrador C#\Proyecto Integrador\obj\Debug\Proyecto Integrador.application
